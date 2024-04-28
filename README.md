@@ -16,7 +16,7 @@ conda activate ManiTalk
 ```
 - Clone the repository:
 ```
-git clone https://git/YuanxunLu/LiveSpeechPortraits.git
+git clone https://github.com/shanzhajuan/ManiTalk/tree/main.git
 cd ManiTalk
 ```
 - FFmpeg is required to combine the audio and the silent generated videos. Please check [FFmpeg](http://ffmpeg.org/download.html) for installation.
